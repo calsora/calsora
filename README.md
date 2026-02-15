@@ -5,7 +5,7 @@ Hey! I'm a Power Platform and Dynamics 365 developer based in the UK. I'm a fan 
 ## What I'm working on 
 
 - Focussed on buiding small open-source software tools to help with Power Pages and D365 development. 
-- Try to become a better developer and share knowledge with others. 
+- Improve my developer skills and share with others.
 
 ![Jet ski](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNnYmFuYXh4bTg1cDFibW1vcWhqY3VuNnNpMmdnaTZ3NWRtYTlubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mVZeRB2PdzDBm/giphy.gif)
 

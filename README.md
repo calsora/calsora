@@ -8,7 +8,7 @@ Hey! I'm a Power Platform and Dynamics 365 developer based in the UK. I'm a fan 
 
 🖱️ [Reusable booking single-page application for Power Pages](https://power-pages-react-startup-1pid6883n-calsoras-projects.vercel.app/)
 
-🤖 [Xrm plugin: Automation Health Scanner - in progress ](https://github.com/calsora/xrm-automation-health-scanner)
+🤖 [Xrm plugin: Automation Health Scanner](https://github.com/calsora/xrm-automation-health-scanner)
 
 ## What I'm working on 
 

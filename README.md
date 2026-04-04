@@ -11,7 +11,7 @@ Hey! I'm a Power Platform and Dynamics 365 developer based in the UK. I'm a fan 
 🤖 [Xrm plugin: Automation Health Scanner](https://github.com/calsora/xrm-automation-health-scanner)
 
 ## What I'm working on 
-
+- Design sustainable solutions using architecture patterns that work for the Power Platform. 
 - Focussed on buiding small open-source software tools to help with Power Pages and D365 development. 
 - Improve my developer skills and to share knowledge with others.
 
